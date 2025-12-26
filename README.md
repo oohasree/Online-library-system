@@ -3,8 +3,8 @@
 Online Library  is a React-based web application that allows users to browse, view, and add books to a virtual library. The app demonstrates the use of React Router for routing, Redux for state management, form handling with validation, and dynamic search/filter functionality.
 ---
 ### 🔗 Project Links
-- 🗂️ GitHub Repo: [Online_Library_System](https://github.com/RAVI8054/Online_Library_System.git)
-- 🌐 Live Demo: [View Deployed App](https://online-library-system-chi.vercel.app/) 
+- 🗂️ GitHub Repo: [Online_Library_System](https://github.com/oohasree/Online-library-system.git)
+- 🌐 Live Demo: [View Deployed App](online-library-system-kappa.vercel.app) 
 
 ---
 ## 🚀 Features
